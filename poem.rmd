@@ -18,6 +18,11 @@ you, if you change any of this the git program will notice it and compromise you
 
 ## Second Verse
 <!--Put the first five lines of a poem by Robert Frost here!-->
+The farmhouse lingers, though averse to square  
+With the new city street it has to wear  
+A number in. But what about the brook  
+I ask as one who knew the brook, its strength  
+And impulse, having dipped a finger length  
 
 ## Third Verse
 <!--Put the first two verses of The Walrus and the Carpenter here!-->
